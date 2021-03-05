@@ -1,0 +1,7 @@
+npm install --save-dev @fortawesome/fontawesome-free
+
+//inside main.js add
+import '@fortawesome/fontawesome-free/css/all.css'     <------
+  <i class="fab fa-2x fa-facebook"></i>
+   <i class="fab fa-2x fa-twitter"></i>
+   <i class="fab fa-2x fa-instagram"></i>
