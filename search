@@ -1,0 +1,9 @@
+tables() {
+      if (this.search) {
+        return this.$store.getters.all.filter(x=>{ 
+        return  x.countryRegion.toLowerCase().includes(this.search.toLowerCase())
+        }
+        );
+      } else {
+        return this.$store.getters.all;
+      }
