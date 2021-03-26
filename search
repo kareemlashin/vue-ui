@@ -1,3 +1,5 @@
+COMPOUTED
+------------
 tables() {
       if (this.search) {
         return this.$store.getters.all.filter(x=>{ 
