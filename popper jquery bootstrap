@@ -1,0 +1,6 @@
+
+import 'jquery/src/jquery.js';
+import "popper.js/dist/umd/popper.min.js";
+import 'bootstrap/dist/js/bootstrap.min.js';
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap.css'
